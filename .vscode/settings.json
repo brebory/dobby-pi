@@ -1,5 +1,6 @@
 {
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.pythonPath": "C:\\Users\\broberto\\.virtualenvs\\dobby-pi-ItbVeIEU\\Scripts\\python.exe"
+    "python.venvPath": "${workspaceRoot}\\.venv",
+    "python.pythonPath": "${workspaceRoot}\\.venv\\Scripts\\python.exe",
 }
